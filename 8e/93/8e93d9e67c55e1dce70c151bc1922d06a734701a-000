@@ -1,0 +1,64 @@
+# Post 01 : Modeling Japan, From Pictures
+
+| Champ | Valeur |
+|---|---|
+| Media | `../01_master/short_01.mp4`, 1080x1920, 60 images par seconde, 20,00 s, son AAC a -14,1 LUFS |
+| Titre a l ecran | `MODELING JAPAN` puis `FROM PICTURES` |
+| Langue | anglais |
+| Lien | matthieuhuguet.com |
+| Style | `short-editor-hda-v003`, sous-titres en degrade `#99f8d3` vers `#76a2d0` |
+| Nom affiche | ZenRay |
+| Identifiant | `@zenray.st` sur Instagram et Bluesky, `@zenrayst` sur YouTube, TikTok, GitHub et X |
+
+## Legende a publier
+
+Fichier prêt a coller : `post_01_caption.txt`.
+
+```text
+Modeling Japan, from pictures.
+
+Depending on the shot you want to make, even a 3D shot, it is not always useful or necessary to
+model absolutely everything. Sometimes it is better to focus only on what will be visible in the
+shot. Sometimes it is better to model nothing at all, because the next steps take time, like
+texturing and lighting. （＾ω＾）
+
+This shrine is a blockout built in Houdini from reference photos. One roof tile is modelled once,
+then instanced across the whole roof, and the trees are still cylinders on purpose.
+
+More of my work: matthieuhuguet.com
+
+#houdini #sidefx #3dmodeling #environmentart #techart #gamedev #proceduralart #blockout #japan #shrine
+```
+
+## Version courte
+
+Pour les plateformes qui coupent la legende, fichier `post_01_caption_short.txt`.
+
+```text
+Modeling Japan, from pictures. You do not always need to model everything, only what the shot sees.
+Houdini blockout, one tile instanced over the whole roof. More of my work: matthieuhuguet.com
+```
+
+## Sous-titres du short, dans l ordre
+
+| Carton | Ligne 1 | Ligne 2 |
+|---|---|---|
+| 1 | depending on the shot you want to make, | even a 3D shot, |
+| 2 | it is not always useful or necessary | to model absolutely everything. |
+| 3 | sometimes it is better to focus only | on what will be visible in the shot. |
+| 4 | sometimes it is better to model nothing at all, | because the next steps take time, |
+| 5 | like texturing and lighting. | （＾ω＾） |
+
+## Texte alternatif pour l accessibilite
+
+```text
+Grey mesh blockout of a small Japanese shrine in Houdini : a torii gate, two stone lanterns, a tiled
+roof and cedar trunks kept as plain cylinders.
+```
+
+## Ce qui reste a decider avant de publier
+
+- La piste musicale vient de YouTube, donc elle peut declencher une revendication de droits. Le
+  script refait le master avec une autre piste en changeant une seule valeur, `MUSIC_SRC`.
+- La promotion : un contenu publie n est fini qu une fois promu. Choisir la plateforme qui recoit le
+  budget et la poser le jour de la publication.
